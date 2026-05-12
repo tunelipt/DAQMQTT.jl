@@ -1,7 +1,7 @@
 name = "DAQMQTT"
 uuid = "c2ba2316-99fd-4ef4-be2e-b913c8e7121d"
 authors = ["= <pjabardo@ipt.br> and contributors"]
-version = "1.0.0-DEV"
+version = "0.1.0"
 
 [deps]
 DAQCore = "7b03aed3-9854-4651-ba28-76b88bef8818"
